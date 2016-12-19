@@ -1,0 +1,17 @@
+{
+  "name": "home",
+  "description": "This is the home controller lib.",
+  "keywords": [
+    "home",
+    "controller"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "main": "index.js",
+  "author": {
+    "name": "TaoQuixote",
+    "email": "web.taox@gmail.com",
+    "url": "blog.taojihede.com"
+  }
+}

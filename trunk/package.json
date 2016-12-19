@@ -1,0 +1,37 @@
+{
+  "name": "node-blog",
+  "version": "0.0.0",
+  "description": "a blog website made by node+express+mongodb+pug+mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tao-Quixote/Node-Blog.git"
+  },
+  "keywords": [
+    "website",
+    "node",
+    "express",
+    "mongodb",
+    "pug",
+    "mongoose"
+  ],
+  "author": {
+    "name": "TaoQuixote",
+    "email": "web.taox@gmail.com",
+    "url": "blog.taojihede.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tao-Quixote/Node-Blog/issues"
+  },
+  "homepage": "https://github.com/Tao-Quixote/Node-Blog#readme",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "mongoose": "^4.7.3",
+    "pug": "^2.0.0-beta6"
+  }
+}

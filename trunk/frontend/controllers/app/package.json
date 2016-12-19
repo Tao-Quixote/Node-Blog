@@ -1,0 +1,15 @@
+{
+	"name": "app",
+	"description":"This module is used to init the app.js",
+	"main":"index.js",
+	"keywords": [
+		"app",
+		"init"
+	],
+	"license": "MIT",
+	"author": {
+    	"name": "TaoQuixote",
+    	"email": "web.taox@gmail.com",
+    	"url": "blog.taojihede.com"
+  	}
+}
